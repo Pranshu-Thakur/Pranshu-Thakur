@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pranshu-Thakur
-- 👀 I’m interested in C
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on Talent
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking for things i can make 
 - 📫 How to reach me simaria.thakur@gmail.com
 
 <!---
